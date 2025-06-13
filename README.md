@@ -57,11 +57,11 @@ Ecommerce-Dashboard/
 
 - **Furniture category** showed high revenue but low profit due to excessive discounting.
 
-![alt text](images/revenue&profit_category.png)
+![alt text](images/revenue&profit_category.png) ![alt text](images/pm&discount_category.png)
 
 - **Strong correlation** between discount and losses.
 
-![alt text](images/pm&discount_category.png)
+
 
 - **Loss-making products** often had discounts above 35%, while profitable ones averaged just 0.05%.
 
