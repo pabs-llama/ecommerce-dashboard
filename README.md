@@ -1,4 +1,6 @@
-# 🛍️ E-Commerce Dashboard
+# 🛍️ E-Commerce dashboard
+
+🔗 [👉 View Live Tableau Dashboard](https://public.tableau.com/app/profile/pablo.soriano/viz/E-commerceproject_17412746070040/Dashboard1)
 
 ## 📊 Project Overview
 
