@@ -48,7 +48,7 @@ Ecommerce-Dashboard/
 │   ├── helper_functions.py
 ├── tables/                  # Database schema and data tables
 ├── superstore.db            # SQLite database
-├── README.mk
+├── README.md
 ```
 
 ---
@@ -57,17 +57,21 @@ Ecommerce-Dashboard/
 
 - **Furniture category** showed high revenue but low profit due to excessive discounting.
 
-![alt text](images/revenue&profit_category.png) 
+![alt text](images/revenue&profit_category.png)
+*Figure: Revenue vs. Profit share by Category — reveals mismatch in furniture segment.*
 
 ![alt text](images/pm&discount_category.png)
+*Figure: Profit Margin and Discount Rates by Category — furniture has the deepest discounts and lowest margins.*
 
-- **Strong correlation** between discount and losses: Most sales with discounts above %20 generate loss.
+- **Strong correlation** between discount and losses: Most sales with discounts above **%20** result in a loss.
 
 ![alt text](images/correlation_discount_profit_margin.png)
+*Figure: Strong negative correlation between Discount and Profit Margin — higher discounts generally reduce profitability.*
 
-- **Huge discount gap** Some products lose money in some states but are profitables in others. The excessive discounting is the key factor behind losses
+- **Huge discount gap**: Some products incur losses in certain states but remain profitable in others. The excessive discounting is the key factor behind losses
 
 ![alt text](images/loss_making_products.png)
+*Figure: Impact of excesive discount in worst performing products*
 
 - **State-level variance** in profitability highlights the need for region-specific strategies.
 - **Simulated adjustments** to discount and pricing showed potential for:
@@ -79,6 +83,7 @@ Ecommerce-Dashboard/
   - Cluster 2: Inactive or low-frequency buyers
 
 ![alt text](images/kmeans_clustering.png)
+*Figure: KMeans Clustering of Customers — segmentation based on Recency, Frequency, and Monetary value.*
 
 ---
 
@@ -93,6 +98,7 @@ The [Tableau dashboard](https://public.tableau.com/app/profile/pablo.soriano/viz
 - Visual comparison of **projected vs. original profit**.
 
 ![Dashboard Preview](images/dashboard.png)
+*Figure: Tableau dashboard showing KPI metrics, category trends, and profitability breakdown.*
 
 ---
 
@@ -124,3 +130,7 @@ The [Tableau dashboard](https://public.tableau.com/app/profile/pablo.soriano/viz
 **Pablo Soriano**  
 📅 Project Date: March 2025  
 🔍 Created during Code Academy Berlin's bootcamp
+
+## 🤝 Let's Connect
+
+Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/pabs-soriano) or reach out with questions and feedback!
