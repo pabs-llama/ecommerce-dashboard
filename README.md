@@ -67,7 +67,7 @@ Ecommerce-Dashboard/
 
 - **Huge discount gap** Some products lose money in some states but are profitables in others. The excessive discounting is the key factor behind losses
 
-![alt text](images/loss_making_prouducts.png)
+![alt text](images/loss_making_products.png)
 
 - **State-level variance** in profitability highlights the need for region-specific strategies.
 - **Simulated adjustments** to discount and pricing showed potential for:
@@ -114,7 +114,7 @@ The [Tableau dashboard](https://public.tableau.com/app/profile/pablo.soriano/viz
 
 ## 📚 References
 
-- Dataset: [Superstore] (https://drive.google.com/file/d/1j3BVqD5_KDfvXdljnZ7beV-G-FVS8df5/view)
+- Dataset: [Superstore](https://drive.google.com/file/d/1j3BVqD5_KDfvXdljnZ7beV-G-FVS8df5/view)
 - Tools: [Tableau](https://www.tableau.com/), [SQLite](https://www.sqlite.org/index.html), [Pandas](https://pandas.pydata.org/)
 
 ---
