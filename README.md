@@ -56,8 +56,15 @@ Ecommerce-Dashboard/
 ## 🔎 Key Insights
 
 - **Furniture category** showed high revenue but low profit due to excessive discounting.
+
+![alt text](images/revenue&profit_category.png)
+
+![alt text](images/pm&discount_category.png)
+
 - **Loss-making products** often had discounts above 35%, while profitable ones averaged just 0.05%.
-[alt text](images/correlation_discount_profit_margin.png)
+
+![alt text](images/correlation_discount_profit_margin.png)
+
 - **State-level variance** in profitability highlights the need for region-specific strategies.
 - **Simulated adjustments** to discount and pricing showed potential for:
   - +10% revenue increase
@@ -79,7 +86,7 @@ The [Tableau dashboard](https://public.tableau.com/app/profile/pablo.soriano/viz
 - Insights into **underperforming products**.
 - Visual comparison of **projected vs. original profit**.
 
-[Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/dashboard.png)
 
 ---
 
