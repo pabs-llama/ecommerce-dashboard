@@ -61,7 +61,7 @@ Ecommerce-Dashboard/
 
 ![alt text](images/pm&discount_category.png)
 
-- **Strong correlation** between discount and losses.
+- **Strong correlation** between discount and losses: Most sales with discounts above %20 generate loss.
 
 ![alt text](images/correlation_discount_profit_margin.png)
 
