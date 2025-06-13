@@ -57,15 +57,17 @@ Ecommerce-Dashboard/
 
 - **Furniture category** showed high revenue but low profit due to excessive discounting.
 
-![alt text](images/revenue&profit_category.png) ![alt text](images/pm&discount_category.png)
+![alt text](images/revenue&profit_category.png) 
+
+![alt text](images/pm&discount_category.png)
 
 - **Strong correlation** between discount and losses.
 
-
-
-- **Loss-making products** often had discounts above 35%, while profitable ones averaged just 0.05%.
-
 ![alt text](images/correlation_discount_profit_margin.png)
+
+- **Huge discount gap** Some products lose money in some states but are profitables in others. The excessive discounting is the key factor behind losses
+
+![alt text](images/loss_making_prouducts.png)
 
 - **State-level variance** in profitability highlights the need for region-specific strategies.
 - **Simulated adjustments** to discount and pricing showed potential for:
