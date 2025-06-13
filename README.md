@@ -59,6 +59,8 @@ Ecommerce-Dashboard/
 
 ![alt text](images/revenue&profit_category.png)
 
+- **Strong correlation** between discount and losses.
+
 ![alt text](images/pm&discount_category.png)
 
 - **Loss-making products** often had discounts above 35%, while profitable ones averaged just 0.05%.
@@ -73,6 +75,8 @@ Ecommerce-Dashboard/
   - Cluster 0: Moderate activity
   - Cluster 1: High-value, frequent customers
   - Cluster 2: Inactive or low-frequency buyers
+
+![alt text](images/kmeans_clustering.png)
 
 ---
 
